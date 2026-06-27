@@ -1,4 +1,4 @@
-<img width="2256" height="1504" alt="image" src="https://github.com/user-attachments/assets/70cdf428-ec3b-4312-92ac-b89af60ca0e7" /># Hey, I'm Paul Rodriguez 👋
+Hey, I'm Paul Rodriguez
 
 ### Full Stack & Mobile Developer
 
