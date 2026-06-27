@@ -1,16 +1,75 @@
-## Hi there 👋
+<img width="2256" height="1504" alt="image" src="https://github.com/user-attachments/assets/70cdf428-ec3b-4312-92ac-b89af60ca0e7" /># Hey, I'm Paul Rodriguez 👋
 
-<!--
-**pmfRoddi/pmfRoddi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack & Mobile Developer
 
-Here are some ideas to get you started:
+I build modern web and mobile applications from concept to deployment using React Native, TypeScript, Firebase, Next.js, and modern web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about building products that solve real-world problems and create engaging user experiences.
+
+---
+
+## 🚀 Featured Projects
+
+### 🏓 SportLink
+A mobile platform connecting athletes, facilities, leagues, brands, and communities.
+
+**Tech**
+- React Native
+- TypeScript
+- Firebase Authentication
+- Firestore
+- Expo
+
+Features include:
+- Community management
+- Matchmaking
+- Rankings
+- Court finder
+- Scheduling
+- Marketplace
+- Messaging
+
+---
+
+### ❤️ Stride
+A modern relationship platform focused on meaningful connections through behavioral insights and intelligent matching.
+
+---
+
+### 🏛 Spartyn Capital
+A modern business advisory website built with Next.js featuring SEO optimization, responsive design, and scalable architecture.
+
+---
+
+### 🍯 RedWolf Mead
+A premium e-commerce website focused on modern branding, responsive design, and customer experience.
+
+---
+
+## 💻 Tech Stack
+
+- React Native
+- TypeScript
+- JavaScript
+- Next.js
+- Firebase
+- Firestore
+- Node.js
+- Git & GitHub
+- HTML
+- CSS
+
+---
+
+## 🌱 Currently Working On
+
+- Expanding SportLink into a multi-sport ecosystem
+- AI-powered application features
+- Modern mobile architecture
+- Full-stack product development
+
+---
+
+## 📫 Connect
+
+I'm always interested in collaborating on innovative software products and opportunities to build impactful technology.
